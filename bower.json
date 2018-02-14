@@ -1,0 +1,24 @@
+{
+  "name": "font-roboto",
+  "version": "1.0.3",
+  "description": "Roboto and Roboto Mono for offline use",
+  "authors": [
+    "mluemkemann <mluemkemann@arigo.de>",
+    "Georgi Reger"
+  ],
+  "keywords": [
+    "font",
+    "roboto",
+    "roboto-mono"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arigo-software/font-roboto.git"
+  },
+  "main": "roboto.html",
+  "license": "MIT",
+  "homepage": "https://github.com/arigo-software/font-roboto/",
+  "ignore": [
+    "/.*"
+  ]
+}
