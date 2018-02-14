@@ -3,13 +3,13 @@
   "version": "1.0.3",
   "description": "Roboto and Roboto Mono for offline use",
   "authors": [
-    "mluemkemann <mluemkemann@arigo.de>",
     "Georgi Reger"
   ],
   "keywords": [
     "font",
     "roboto",
-    "roboto-mono"
+    "roboto-mono",
+    "offline"
   ],
   "repository": {
     "type": "git",
