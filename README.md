@@ -4,6 +4,6 @@ _(includes: cyrillic-ext, cyrillic, greek-ext, greek, vietnamese, latin-ext, lat
 
 Fonts to use offline:
 - Roboto:
- - 400, 300, 300italic, 400italic, 500, 500italic, 700, 700italic
+  - 400, 300, 300italic, 400italic, 500, 500italic, 700, 700italic
 - Roboto Mono:
- - 400, 700
+  - 400, 700
